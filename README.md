@@ -2,7 +2,7 @@
 
 Q:What's Zhangshihezhou?
 
-A:Zhangshihezhou is an interesting hoby which is invented by HunchbackedCucumber about drinking porridge.It's a meaningless but fun hoby,so please don't take it seriously.
+A:Zhangshihezhou is an interesting hobby which is invented by HunchbackedCucumber about drinking porridge.It's a meaningless but fun hobby,so please don't take it seriously.
 
 Q:Why this repository is set up?
 
