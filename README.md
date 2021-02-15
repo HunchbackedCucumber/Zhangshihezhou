@@ -5,7 +5,7 @@
 
 Zhangshihezhou is an interesting hobby which is invented by HunchbackedCucumber about drinking porridge. HunchbackedCucumber came across this phrase by accident and consider it interesting. Thus,this phrase gradually became a meme. 
 
-The author is a freshman in github.This repository is just like a "hello world" repository for the author to get familiar with github.So the author suppose himself to know github better and verify the meaning of the meme. 
+The author is a freshman in github.This repository is just like a "hello world" repository for the author to get familiar with github.So the author suppose himself to know github better and verify the meaning of the meme by constructing this repository. 
 
 If interested,you can contact HunchbackedCucumber for further information about Zhangshihezhou. 
 
